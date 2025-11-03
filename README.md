@@ -36,5 +36,5 @@ Source: [Netflix Dataset on Kaggle](https://www.kaggle.com/datasets/shivamb/netf
 
 ## Contact
 **Arwa Menaouar**  
-📧 arwamenaouar@example.com  
+📧 arwa.menaouar@gmail.com  
 🔗 linkedin.com/in/arwa-menaouar-b89131216
